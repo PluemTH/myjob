@@ -1,19 +1,15 @@
 Programmer
-ตำแหน่ง โปรแกรมเมอร์
+โปรแกรมเมอร์
 Mitsubishi Turbochager Asia
 
 Qualification
-
+คุณสมบัติ
 -Bachelor's Degree in Computer Science
--Experience in RPA Developer and Web Programming C#.NET/VB.NET (UiPath)
 -Experience in Development, Implement web application platform
 -Basic communication in English
--Good point if experience in Low code development such as K2 platform
--Good point if knowledge in data analytic tools such as SAP Business Object BI/BPC
--Other knowledge such as MS Visual Studio 2015, SQL Management studio, Crystal Report 2013, SAP BI/BPC, K2 workflow
 
 Job Scope
-
+ขอบเขตของงาน
 -Develop and support robotic process automation platform (RPA) and web application platform
 -Testing software to ensure the coding is correct, debugging and fixing error where they occur,  re-checking the program results is correct and cover requirement, and training user to using new system.
 -Assist to create system design, function specifications and implementing system for all new development.
