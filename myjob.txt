@@ -4,12 +4,18 @@ Mitsubishi Turbochager Asia
 
 Qualification
 คุณสมบัติ
--Bachelor's Degree in Computer Science
--Experience in Development, Implement web application platform
--Basic communication in English
+>Bachelor's Degree in Computer Science
+ -ปริญญาตรี สาขาวิทยาการคอมพิวเตอร์
+>Experience in Development, Implement web application platform
+ -มีประสบการณ์ในการพัฒนา ใช้งานแพลตฟอร์มเว็บแอปพลิเคชัน
+>Basic communication in English
+ -มีพื้นฐานภาษาอังกฤษ
 
 Job Scope
 ขอบเขตของงาน
--Develop and support robotic process automation platform (RPA) and web application platform
--Testing software to ensure the coding is correct, debugging and fixing error where they occur,  re-checking the program results is correct and cover requirement, and training user to using new system.
--Assist to create system design, function specifications and implementing system for all new development.
+>Develop and support robotic process automation platform (RPA) and web application platform
+ -พัฒนาและสนับสนุนแพลตฟอร์มอัตโนมัติของกระบวนการหุ่นยนต์ (RPA) และแพลตฟอร์มเว็บแอปพลิเคชัน
+>Testing software to ensure the coding is correct, debugging and fixing error where they occur,  re-checking the program results is correct and cover requirement, and training user to using new system.
+ -การทดสอบซอฟต์แวร์เพื่อให้แน่ใจว่าการเข้ารหัสถูกต้อง การดีบักและแก้ไขข้อผิดพลาดที่เกิดขึ้น ตรวจสอบผลลัพธ์ของโปรแกรมอีกครั้งว่าถูกต้องและครอบคลุมข้อกำหนด และฝึกอบรมผู้ใช้ให้ใช้ระบบใหม่
+>Assist to create system design, function specifications and implementing system for all new development.
+ -ช่วยสร้างการออกแบบระบบ คุณสมบัติการทำงาน และระบบการนำไปใช้สำหรับการพัฒนาใหม่ทั้งหมด
